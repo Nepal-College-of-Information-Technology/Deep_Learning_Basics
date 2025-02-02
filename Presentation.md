@@ -1,22 +1,18 @@
-\begin{table}[]
-\begin{tabular}{|l|l|lll|l|}
-\hline
-sn & Title                                                                        & \multicolumn{3}{l|}{Presentors}                                   & Remarks \\ \hline
-1  & 1.2.3. History of AI                                                         & \multicolumn{1}{l|}{{[}4,}  & \multicolumn{1}{l|}{39,} & 12{]},   &         \\ \hline
-2  & 1.2.4. Risk and Benefits of AI                                               & \multicolumn{1}{l|}{{[}7,}  & \multicolumn{1}{l|}{35,} & 3{]},    &         \\ \hline
-3  & 1.3.2. AI and Society: Work and Automation, Employment, Privacy and Security & \multicolumn{1}{l|}{{[}47,} & \multicolumn{1}{l|}{7,}  & 39{]},   &         \\ \hline
-4  & 1.3.3. AI in Governance and Regulation                                       & \multicolumn{1}{l|}{{[}7,}  & \multicolumn{1}{l|}{25,} & 13{]},   &         \\ \hline
-5  & 3.3.2. Simulated Annealing                                                   & \multicolumn{1}{l|}{{[}37,} & \multicolumn{1}{l|}{36,} & 32{]},   &         \\ \hline
-6  & 3.3.3. Genetic Algorithms                                                    & \multicolumn{1}{l|}{{[}35,} & \multicolumn{1}{l|}{15,} & 34{]},   &         \\ \hline
-7  & 4.3.2. Ontological-Based Representation                                      & \multicolumn{1}{l|}{{[}36,} & \multicolumn{1}{l|}{24,} & 7{]},    &         \\ \hline
-8  & 5.6. Expert Systems and its Applications                                     & \multicolumn{1}{l|}{{[}36,} & \multicolumn{1}{l|}{13,} & 44{]},   &         \\ \hline
-9  & 6.4.1.2. Back-propagation and Gradient Descent                               & \multicolumn{1}{l|}{{[}33,} & \multicolumn{1}{l|}{41,} & 14{]},   &         \\ \hline
-10 & 6.5.2. Adam Optimizer                                                        & \multicolumn{1}{l|}{{[}5,}  & \multicolumn{1}{l|}{11,} & 2{]},    &         \\ \hline
-11 & 6.7.1. Neural Networks for Software Testing and Debugging                    & \multicolumn{1}{l|}{{[}15,} & \multicolumn{1}{l|}{35,} & 30{]},   &         \\ \hline
-12 & 6.7.2. AI-Driven Code Generation and Optimization                            & \multicolumn{1}{l|}{{[}19,} & \multicolumn{1}{l|}{32,} & 48{]},   &         \\ \hline
-13 & 6.7.3. Neural Networks in Automated Software Maintenance                     & \multicolumn{1}{l|}{{[}30,} & \multicolumn{1}{l|}{9,}  & 22{]},   &         \\ \hline
-14 & 7.3.1. Transfer Learning and Pretrained Models                               & \multicolumn{1}{l|}{{[}29,} & \multicolumn{1}{l|}{17,} & 20{]},   &         \\ \hline
-15 & 7.3.2. Generative Adversarial Networks (GANs)                                & \multicolumn{1}{l|}{{[}26,} & \multicolumn{1}{l|}{11,} & 48{]},   &         \\ \hline
-16 & 7.3.3. Reinforcement Learning and Neural Network                             & \multicolumn{1}{l|}{{[}1,}  & \multicolumn{1}{l|}{11,} & 46{]}{]} &         \\ \hline
-\end{tabular}
-\end{table}
+| sn | Title                                                                        | Presentors                                            | Remarks |
+|----|------------------------------------------------------------------------------|-------------------------------------------------------|---------|
+| 1  | 1.2.3. History of AI                                                         | [ 221740 (Samrat),  221713 (Bishal) ]                 |         |
+| 2  | 1.2.4. Risk and Benefits of AI                                               | [ 221715 (Harsh),  221747 (Tilak) ]                   |         |
+| 3  | 1.3.2. AI and Society: Work and Automation, Employment, Privacy and Security | [ 221706 (Ashish), 221723 (Melisha)]                  |         |
+| 4  | 1.3.3. AI in Governance and Regulation                                       | [221701 (Abhishek), 221733 (Pranav)]                  |         |
+| 5  | 3.3.2. Simulated Annealing                                                   | [221702 (Abiral), 221738 (Rashmi)]                    |         |
+| 6  | 3.3.3. Genetic Algorithms                                                    | [221720 (Lamin), 221744 (Srijan),  221719 (Lalit)]    |         |
+| 7  | 4.3.2. Ontological-Based Representation                                      | [221703 (Ansu), 221717 (Krishna), 221724 (Miken)]     |         |
+| 8  | 5.6. Expert Systems and its Applications                                     | [221705 (Aryan), 221721 (Madhu), 221739 (Rupesh)]     |         |
+| 9  | 6.4.1.2. Back-propagation and Gradient Descent                               | [ 221736 (Ranjit),  221748 (Subash)]                  |         |
+| 10 | 6.5.2. Adam Optimizer                                                        | [ 221729 (Nishan), 221746 (Swastika)]                 |         |
+| 11 | 6.7.1. Neural Networks for Software Testing and Debugging                    | [221708 (Bhupesh), 221731 (Prabesh), 221734 (Pranil)] |         |
+| 12 | 6.7.2. AI-Driven Code Generation and Optimization                            | [221704 (Arbin), 221742 (Sneha)]                      |         |
+| 13 | 6.7.3. Neural Networks in Automated Software Maintenance                     | [221712 (Bishal), 221730 (Ojash), 221735 (Rajan)]     |         |
+| 14 | 7.3.1. Transfer Learning and Pretrained Models                               | [221707 (Astha),  221737 (Rasad)]                     |         |
+| 15 | 7.3.2. Generative Adversarial Networks (GANs)                                | [221716 (Kaushal), 221732 (Pranav), 221745 (Subash)]  |         |
+| 16 | 7.3.3. Reinforcement Learning and Neural Network                             | [221710 (Binita), 221722 (Madhusudan)]                |         |
